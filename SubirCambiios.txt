@@ -1,0 +1,6 @@
+Subir Cambios a Github
+
+Paso # 1. git status
+Paso # 2. git add .
+Paso # 3. git commit -m "comentatio"
+Paso # 4. git push -u origin main
