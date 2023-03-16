@@ -1,0 +1,10 @@
+Subir un proyecto a Github
+
+Paso # 1. Abrir la terminal
+Paso # 2. git init // para iniciar el repositorio
+Paso # 3. git status // para ver lo archivo a subir 
+Paso # 4. git add . // para agregar los archivo
+Paso # 5. git commit -m "" // agregar un comentatio
+Paso # 6. git branch -M main // para ver los archivo cargados
+Paso # 7. git remote add origin (Agregar el link donde se subira el repositorio)
+Paso # 8. git push -f -u origin main
